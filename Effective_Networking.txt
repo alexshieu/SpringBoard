@@ -1,0 +1,19 @@
+Attended the below meetup.
+https://www.meetup.com/SVDataVizMeetup/events/245402357/
+
+There were 6 of us in attendance. One by one we each discussed how we use and want to use data visualization and data science. Questions
+were asked of each participant in order to help the group understand their goals and experiences. The group then provided feedback about
+ideas to try, models to implement and where to find resources. 
+
+I will leave out names in this section to protect the privacy of the participants. One participant was a generalist data scientist who 
+had a lot of experience in many different data science projects with a focus on the visualization and story telling aspect. That participant
+had a lot of knowledge on state of the art models and how to apply then in different situations. Another was working for an e-commerce 
+start-up and was using data science on web analytics focusing on topics such as how long users spent on webpages, where they came from, 
+what they clicked on, how long did they dwell and what resulted in conversions. Another was taking text transcriptions from interviews 
+and building a model to help identify users who have psycological warning flags. 
+
+We discussed my use case as a manufacturing manager looking to use dashboards to better drive decision making and applying machine learning
+algorithms to predict inventory  and quality issues. We  also discussed usage of machine learning to increase fundraising for
+the non-profit that I am on the board for. 
+
+Overall it was an excellent experience. I emailed everyone I met at the meet-up and will be connecting with them on Linkedin as well. 
